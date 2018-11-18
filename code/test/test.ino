@@ -13,7 +13,6 @@ void setup() {
   
 }
 void loop() {
-  
    haut();
   delay(1000); // One second delay
    bas();

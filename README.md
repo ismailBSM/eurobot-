@@ -6,6 +6,6 @@ This repository will contain :
     Pictures for the Robots,
     Testing Videos. 
     
-And if you want some others aditional information contact me by Email : ismail_hamrouni@yahoo.fr
+And if you want some others additional information contact me by Email : ismail_hamrouni@yahoo.fr
 
 Thank you 
